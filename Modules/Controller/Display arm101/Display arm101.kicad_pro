@@ -152,7 +152,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -661,7 +661,7 @@
         "uuid": "b774b004-06f2-42b2-8ee9-d06295b15b30"
       }
     ],
-    "used_designators": "RESET1,U1-3,BOOT1,#FLG1-2,R1-12,J1-3,C1-10,#PWR1-17,SW1-2,F1,Q1",
+    "used_designators": "RESET1,U1-3,F1,Q1,BOOT1,#FLG1-2,R1-12,J1-3,C1-10,#PWR1-17,SW1-2",
     "variants": []
   },
   "sheets": [
