@@ -1,3 +1,6 @@
-.history/*
+.history
 *.lck
 fabrication-toolkit-options.json
+production
+Production
+*.zip
