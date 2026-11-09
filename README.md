@@ -12,6 +12,7 @@ PCB for the main arm
 Schematic for the main arm
 <img width="543" height="337" alt="Screenshot 2026-11-08 184300" src="https://github.com/user-attachments/assets/d362846b-0e82-4120-be59-d932288f6df4" />
 schematic for the camera
+
 # Team Members
 
 <ul>
