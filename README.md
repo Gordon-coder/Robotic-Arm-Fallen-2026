@@ -10,7 +10,7 @@ We have decided to make seperate pcbs for the different parts of the robotic arm
 PCB for the main arm
 <img src="Media/Robotic-Arm-Main-Schematic.png" />
 Schematic for the main arm
-<img width="543" height="337" alt="Screenshot 2026-11-08 184300" src="https://github.com/user-attachments/assets/d362846b-0e82-4120-be59-d932288f6df4" />
+<img width="543" height="337" alt="Screenshot 2026-11-08 184300"  />
 schematic for the camera
 
 # Team Members
